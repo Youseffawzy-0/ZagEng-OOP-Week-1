@@ -1,0 +1,19 @@
+Q no.1:
+
+object: the base of classes.
+
+class: A class is a code the describes a particular type of object, it specifies the data that an object can hold and what can it preform. 
+
+.......................
+Q no.2:
+
+getters: makes you access the variables which are private.
+
+setters: update the variables whether editing it or adding logic statement. 
+
+........................................
+Q no.3:
+
+public: accessible by any one (no hidden data or encapsulation) 
+
+private: accessible by the file owner only.
